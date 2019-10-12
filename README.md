@@ -4,6 +4,9 @@ This is game involving embedded programming and real hardware. It is designed as
 Team members:
 
 _ Tina R.
+
 _ Tushar T.
+
 _ Mahesh S.
+
 _ Wenyan H.
