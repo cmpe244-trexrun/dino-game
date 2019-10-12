@@ -1,5 +1,5 @@
 # dino-game
-This is game involving embedded programming and real hardware. It is designed as a class project for CMPE244--embedded software at SJSU.
+This is game involving embedded programming and real hardware. It is designed as a class project for CMPE244&mdash;embedded software at SJSU.
 
 Team members:
 - Tina R.
